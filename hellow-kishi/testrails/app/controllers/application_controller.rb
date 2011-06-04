@@ -3,5 +3,6 @@ class ApplicationController < ActionController::Base
   
   def hollo()
     put a
+    put hayato
   end
 end
