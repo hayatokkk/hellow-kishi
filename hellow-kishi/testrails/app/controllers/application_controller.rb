@@ -4,5 +4,6 @@ class ApplicationController < ActionController::Base
   def hollo()
     put a
     put hayato
+    put "マージテスト-複雑なマージはできるかな" #2011/06/04 hayato add sourse----
   end
 end
